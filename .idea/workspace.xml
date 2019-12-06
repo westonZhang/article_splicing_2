@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03981957-491b-4b53-b7a8-245312a74e21" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/article_splicing$file_split_and_splicing.coverage" NAME="file_split_and_splicing Coverage Results" MODIFIED="1564649567620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$demo.coverage" NAME="demo Coverage Results" MODIFIED="1564650948662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing_old_new_mix_2.coverage" NAME="file_processing_old_new_mix_2 Coverage Results" MODIFIED="1565935042912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$utils.coverage" NAME="utils Coverage Results" MODIFIED="1551691358486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$run.coverage" NAME="run Coverage Results" MODIFIED="1553768275925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$main.coverage" NAME="main Coverage Results" MODIFIED="1572862353011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing.coverage" NAME="file_processing Coverage Results" MODIFIED="1553762810774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+              <folding>
+                <element signature="e#0#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_split_and_splicing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="158" selection-start-line="158" selection-end-line="158" />
+              <folding>
+                <element signature="e#26#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/file_processing_old_new_mix_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="310" column="31" selection-start-line="310" selection-start-column="31" selection-end-line="310" selection-end-column="31" />
+              <folding>
+                <element signature="e#15#24#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="90" column="54" selection-start-line="88" selection-start-column="57" selection-end-line="90" selection-end-column="54" />
+              <folding>
+                <element signature="e#26#35#0" expanded="true" />
+                <element signature="e#3555#3697#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>标题</find>
+      <find>article_path</find>
+      <find>keywords_num</find>
+      <find>oper</find>
+      <find>read_article_img_path</find>
+      <find>read_keyword_path</find>
+      <find>domain_name</find>
+      <find>document</find>
+      <find>article</find>
+      <find>temp_article</find>
+      <find>get_keyword</find>
+      <find>every_article_num</find>
+      <find>remaining_keywords</find>
+      <find>util</find>
+      <find>file_paocessing1</find>
+      <find>write_unused_keywords_csv</find>
+      <find>Document</find>
+      <find>src</find>
+      <find>folder</find>
+      <find>all_mid_list</find>
+      <find>get_article_len</find>
+      <find>docx</find>
+      <find>Dispatch</find>
+      <find>decode</find>
+      <find>saveas</find>
+      <find>_W</find>
+      <find>固定展架</find>
+      <find>self.keyword</find>
+      <find>read_xlsx</find>
+      <find>get_file_dir</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/text.py" />
+        <option value="$PROJECT_DIR$/readme/readme.txt" />
+        <option value="$PROJECT_DIR$/file_processing_pic_no_multiplex.py" />
+        <option value="$PROJECT_DIR$/file_processing_with_video.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/requirements.txt" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/insert_img.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/file_processing.py" />
+        <option value="$PROJECT_DIR$/article_splicing.py" />
+        <option value="$PROJECT_DIR$/file_processing_no_picture.py" />
+        <option value="$PROJECT_DIR$/file_processing_whole_mix.py" />
+        <option value="$PROJECT_DIR$/file_processing_old_new_mix.py" />
+        <option value="$PROJECT_DIR$/article_aplit_no_keywords.py" />
+        <option value="$PROJECT_DIR$/dist/demo.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/utils.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/file_processing_old_new_mix_2.py" />
+        <option value="$PROJECT_DIR$/file_split_and_splicing.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="article_splicing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="article_splicing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="article_splicing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="article_splicing" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="article_splicing" type="b2602c69:ProjectViewProjectNode" />
+              <item name="article_splicing" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="read_path" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKSPACE\workSpace\article_splicing\data\read_path" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\WORKSPACE\workSpace\article_splicing" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="article_aplit_no_keywords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="article_splicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/article_aplit_no_keywords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="article_splicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_processing_old_new_mix_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="article_splicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_processing_old_new_mix_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_split_and_splicing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="article_splicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_split_and_splicing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="article_splicing" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.file_processing_old_new_mix_2" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.file_split_and_splicing" />
+        <item itemvalue="Python.article_aplit_no_keywords" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03981957-491b-4b53-b7a8-245312a74e21" name="Default Changelist" comment="" />
+      <created>1550555691097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550555691097</updated>
+      <workItem from="1550555719206" duration="88289000" />
+      <workItem from="1550798398682" duration="9984000" />
+      <workItem from="1551094760517" duration="137000" />
+      <workItem from="1551095129199" duration="310000" />
+      <workItem from="1551165518579" duration="190000" />
+      <workItem from="1551171794103" duration="458000" />
+      <workItem from="1551255843359" duration="3631000" />
+      <workItem from="1551417647253" duration="1108000" />
+      <workItem from="1551665773557" duration="2200000" />
+      <workItem from="1551668243748" duration="46000" />
+      <workItem from="1551668763280" duration="603000" />
+      <workItem from="1551691240880" duration="214000" />
+      <workItem from="1551692064078" duration="158000" />
+      <workItem from="1551694694338" duration="395000" />
+      <workItem from="1551698908879" duration="1190000" />
+      <workItem from="1551775182763" duration="185000" />
+      <workItem from="1551775468440" duration="39000" />
+      <workItem from="1551776208288" duration="224000" />
+      <workItem from="1551777009749" duration="1114000" />
+      <workItem from="1551867497566" duration="352000" />
+      <workItem from="1551868193325" duration="453000" />
+      <workItem from="1551967037963" duration="450000" />
+      <workItem from="1552272389336" duration="154000" />
+      <workItem from="1552294297703" duration="94000" />
+      <workItem from="1552297405809" duration="543000" />
+      <workItem from="1552355659453" duration="167000" />
+      <workItem from="1552357131867" duration="3120000" />
+      <workItem from="1552443617361" duration="508000" />
+      <workItem from="1552454873833" duration="1357000" />
+      <workItem from="1553506961000" duration="775000" />
+      <workItem from="1553581065934" duration="217000" />
+      <workItem from="1553584679896" duration="606000" />
+      <workItem from="1553590978120" duration="3943000" />
+      <workItem from="1553657845345" duration="6935000" />
+      <workItem from="1553674925818" duration="242000" />
+      <workItem from="1553762671080" duration="696000" />
+      <workItem from="1553768166216" duration="171000" />
+      <workItem from="1553855298626" duration="39000" />
+      <workItem from="1554082787070" duration="3422000" />
+      <workItem from="1554108600756" duration="2799000" />
+      <workItem from="1554202146296" duration="7369000" />
+      <workItem from="1554274419265" duration="1673000" />
+      <workItem from="1554278546167" duration="1281000" />
+      <workItem from="1554286461398" duration="17278000" />
+      <workItem from="1554340690305" duration="655000" />
+      <workItem from="1554341390842" duration="5986000" />
+      <workItem from="1554348261264" duration="3623000" />
+      <workItem from="1554684149727" duration="5279000" />
+      <workItem from="1554695287599" duration="4773000" />
+      <workItem from="1554771740663" duration="11724000" />
+      <workItem from="1554795376681" duration="53000" />
+      <workItem from="1554876171075" duration="307000" />
+      <workItem from="1554880606027" duration="286000" />
+      <workItem from="1554884604709" duration="983000" />
+      <workItem from="1555317440259" duration="885000" />
+      <workItem from="1555375244809" duration="10211000" />
+      <workItem from="1555403087368" duration="262000" />
+      <workItem from="1555404359702" duration="2271000" />
+      <workItem from="1555407384069" duration="3151000" />
+      <workItem from="1555570422842" duration="362000" />
+      <workItem from="1555575489639" duration="787000" />
+      <workItem from="1555577788771" duration="1830000" />
+      <workItem from="1555634681552" duration="252000" />
+      <workItem from="1555635832995" duration="4927000" />
+      <workItem from="1555642311999" duration="1202000" />
+      <workItem from="1556004338409" duration="297000" />
+      <workItem from="1556006532091" duration="160000" />
+      <workItem from="1556009116783" duration="160000" />
+      <workItem from="1556089953368" duration="779000" />
+      <workItem from="1556432084471" duration="165000" />
+      <workItem from="1556514270164" duration="717000" />
+      <workItem from="1556526329972" duration="81000" />
+      <workItem from="1556532264234" duration="136000" />
+      <workItem from="1556606470347" duration="4802000" />
+      <workItem from="1557048719243" duration="419000" />
+      <workItem from="1557207913420" duration="189000" />
+      <workItem from="1557279066180" duration="480000" />
+      <workItem from="1557386953096" duration="87000" />
+      <workItem from="1557477261912" duration="136000" />
+      <workItem from="1557898691733" duration="66000" />
+      <workItem from="1557974856476" duration="3727000" />
+      <workItem from="1557997511193" duration="329000" />
+      <workItem from="1557997932945" duration="644000" />
+      <workItem from="1558341521762" duration="1684000" />
+      <workItem from="1558404941253" duration="1340000" />
+      <workItem from="1558420871199" duration="223000" />
+      <workItem from="1558421961417" duration="1902000" />
+      <workItem from="1558427362746" duration="1449000" />
+      <workItem from="1558519816059" duration="1046000" />
+      <workItem from="1558594601386" duration="570000" />
+      <workItem from="1558606043906" duration="803000" />
+      <workItem from="1558663259743" duration="441000" />
+      <workItem from="1558664261677" duration="132000" />
+      <workItem from="1558683661916" duration="4828000" />
+      <workItem from="1558689826324" duration="455000" />
+      <workItem from="1558948528695" duration="930000" />
+      <workItem from="1558949523712" duration="108000" />
+      <workItem from="1559010340466" duration="292000" />
+      <workItem from="1559022876008" duration="294000" />
+      <workItem from="1559096485854" duration="300000" />
+      <workItem from="1559098369460" duration="140000" />
+      <workItem from="1559111512569" duration="152000" />
+      <workItem from="1559120278326" duration="808000" />
+      <workItem from="1559540912179" duration="674000" />
+      <workItem from="1559541779871" duration="2903000" />
+      <workItem from="1559547208093" duration="1930000" />
+      <workItem from="1559696621017" duration="315000" />
+      <workItem from="1559719107520" duration="3645000" />
+      <workItem from="1559799550656" duration="264000" />
+      <workItem from="1560137853215" duration="808000" />
+      <workItem from="1560236049239" duration="266000" />
+      <workItem from="1560303729928" duration="1299000" />
+      <workItem from="1560308163879" duration="164000" />
+      <workItem from="1560326236118" duration="202000" />
+      <workItem from="1560335911254" duration="509000" />
+      <workItem from="1560406073213" duration="141000" />
+      <workItem from="1560406552076" duration="1295000" />
+      <workItem from="1560481005541" duration="191000" />
+      <workItem from="1560500926409" duration="177000" />
+      <workItem from="1560760202751" duration="757000" />
+      <workItem from="1560763174229" duration="7001000" />
+      <workItem from="1561012283246" duration="4341000" />
+      <workItem from="1561433620587" duration="48000" />
+      <workItem from="1561528082729" duration="4061000" />
+      <workItem from="1561604423343" duration="613000" />
+      <workItem from="1561623739180" duration="2941000" />
+      <workItem from="1561960288414" duration="584000" />
+      <workItem from="1562050962318" duration="1352000" />
+      <workItem from="1562143520212" duration="5277000" />
+      <workItem from="1562633940715" duration="2125000" />
+      <workItem from="1562806257327" duration="11913000" />
+      <workItem from="1563757261989" duration="3909000" />
+      <workItem from="1563929170389" duration="4940000" />
+      <workItem from="1564361762865" duration="2630000" />
+      <workItem from="1564563202211" duration="33000" />
+      <workItem from="1564563249606" duration="8838000" />
+      <workItem from="1564626815353" duration="854000" />
+      <workItem from="1564627718678" duration="8953000" />
+      <workItem from="1564639101966" duration="8660000" />
+      <workItem from="1564648725164" duration="3481000" />
+      <workItem from="1564993167012" duration="36000" />
+      <workItem from="1565311832801" duration="10805000" />
+      <workItem from="1565918086604" duration="1333000" />
+      <workItem from="1565929886372" duration="5808000" />
+      <workItem from="1567479159548" duration="628000" />
+      <workItem from="1568187187022" duration="15000" />
+      <workItem from="1569231226548" duration="427000" />
+      <workItem from="1569291509616" duration="21000" />
+      <workItem from="1571879938167" duration="725000" />
+      <workItem from="1572311207093" duration="1066000" />
+      <workItem from="1572861740538" duration="2454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="377611000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15778251" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4355363" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" weight="0.3488624" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2654388" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.34273317" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14872068" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4154013" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4989339" visible="true" weight="0.26681128" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" weight="0.3449024" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20607375" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.34273317" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_processing_old_new_mix_2.py</url>
+          <line>352</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_split_and_splicing.py</url>
+          <line>210</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/file_processing_old_new_mix_2.py</url>
+          <line>267</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="&quot;_&quot;.join(self.domain_name.split(&quot;_&quot;)[0:3])" language="Python" />
+        <watch expression="workbook.active._WorkbookChild__title" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing_whole_mix.coverage" NAME="file_processing_whole_mix Coverage Results" MODIFIED="1555406704355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$utils.coverage" NAME="utils Coverage Results" MODIFIED="1559543108726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing.coverage" NAME="file_processing Coverage Results" MODIFIED="1562829798058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$article_splicing.coverage" NAME="article_splicing Coverage Results" MODIFIED="1559023057037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$article_aplit_no_keywords.coverage" NAME="article_aplit_no_keywords Coverage Results" MODIFIED="1563859759258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing_old_new_mix_2.coverage" NAME="file_processing_old_new_mix_2 Coverage Results" MODIFIED="1564123006319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_split_and_splicing.coverage" NAME="file_split_and_splicing Coverage Results" MODIFIED="1564562208602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing_no_picture.coverage" NAME="file_processing_no_picture Coverage Results" MODIFIED="1559547272270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/article_splicing$file_processing_old_new_mix.coverage" NAME="file_processing_old_new_mix Coverage Results" MODIFIED="1561623848321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>workbook.active._WorkbookChild__title</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>workbook.active</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;_&quot;.join(self.domain_name.split(&quot;_&quot;)[0:3])</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;)[:3]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;,2)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;, -1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;, 1)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;, 3)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.domain_name.split(&quot;_&quot;)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/text.py" />
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/random.py" />
+    <entry file="file://$PROJECT_DIR$/readme/readme.txt" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/openpyxl/reader/excel.py" />
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/zipfile.py" />
+    <entry file="file://C:/ProgramData/Anaconda2/Lib/shutil.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing_with_video.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/article_splicing/lib/python2.7/site-packages/openpyxl/reader/excel.py" />
+    <entry file="file://$USER_HOME$/anaconda2/envs/article_splicing/lib/python2.7/site-packages/openpyxl/workbook/workbook.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing_pic_no_multiplex.py" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/docx/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing.spec" />
+    <entry file="file:///usr/lib/python2.7/encodings/utf_8.py" />
+    <entry file="file://$PROJECT_DIR$/insert_img.py" />
+    <entry file="file://$PROJECT_DIR$/Dockerfile" />
+    <entry file="file:///usr/lib/python2.7/ntpath.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/docx/api.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/docx/opc/phys_pkg.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/348993582/__builtin__.py" />
+    <entry file="file://$PROJECT_DIR$/run.spec" />
+    <entry file="file://$PROJECT_DIR$/article_splicing.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing_no_picture.py" />
+    <entry file="file:///usr/lib/python2.7/zipfile.py" />
+    <entry file="file://$USER_HOME$/.local/lib/python2.7/site-packages/openpyxl/reader/excel.py" />
+    <entry file="file:///usr/lib/python2.7/random.py" />
+    <entry file="file://$PROJECT_DIR$/article_aplit_no_keywords.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml" />
+    <entry file="file://$PROJECT_DIR$/run.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing_old_new_mix.py" />
+    <entry file="file://$PROJECT_DIR$/file_processing_whole_mix.py" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://C:/ProgramData/Anaconda3/pkgs/pyqt-5.6.0-py36hb5ed885_5/Lib/site-packages/PyQt5/QtGui.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="2471" column="4" selection-start-line="2471" selection-start-column="4" selection-end-line="2471" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-313451744/PyQt5/QtGui/QKeySequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="162" column="4" selection-start-line="162" selection-start-column="4" selection-end-line="162" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-313451744/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="5024" column="8" lean-forward="true" selection-start-line="5024" selection-start-column="8" selection-end-line="5024" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="1740" selection-start-line="1740" selection-end-line="1740" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Anaconda3/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="257" column="7" lean-forward="true" selection-start-line="257" selection-start-column="7" selection-end-line="257" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_processing_old_new_mix_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="310" column="31" selection-start-line="310" selection-start-column="31" selection-end-line="310" selection-end-column="31" />
+          <folding>
+            <element signature="e#15#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_split_and_splicing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="90" column="54" selection-start-line="88" selection-start-column="57" selection-end-line="90" selection-end-column="54" />
+          <folding>
+            <element signature="e#26#35#0" expanded="true" />
+            <element signature="e#3555#3697#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="23" column="48" lean-forward="true" selection-start-line="23" selection-start-column="48" selection-end-line="23" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
